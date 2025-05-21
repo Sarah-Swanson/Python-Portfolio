@@ -19,6 +19,7 @@ Python-Portfolio/
 │   ├── list_formatter.py      # Program that formats lists with proper grammar
 │   └── README.md              # Project description
 │
+│
 └── password_manager/          # Project 3: Password Manager with Encryption
     ├── main.py                # Main program file
     ├── encryption_utilities.py # Encryption module
