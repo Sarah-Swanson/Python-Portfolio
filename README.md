@@ -6,26 +6,26 @@ A portfolio of my work from my Intro to Python course.
 ```
 Python-Portfolio/
 │
-├── README.md                  # This file
-├── .gitignore                 # Standard Python gitignore file
+├── README.md                          # This file
+├── .gitignore                         # Standard Python gitignore file
 │
 │
-├── backpack_inventory/        # Project 2: Backpack Inventory Manager
-│   ├── backpack.py            # Simple inventory management system
-│   └── README.md              # Project description
+├── backpack_inventory/                # Project 2: Backpack Inventory Manager
+│   ├── backpack.py                    # Simple inventory management system
+│   └── README.md                      # Project description
 │
 │
-├── list_formatter/            # Project 1: List Formatter
-│   ├── list_formatter.py      # Program that formats lists with proper grammar
-│   └── README.md              # Project description
+├── list_formatter/                    # Project 1: List Formatter
+│   ├── list_formatter.py              # Program that formats lists with proper grammar
+│   └── README.md                      # Project description
 │
 │
-└── password_manager/          # Project 3: Password Manager with Encryption
-    ├── main.py                # Main program file
-    ├── encryption_utilities.py # Encryption module
-    ├── encryption_utilities_test.py # Unit tests for encryption
-    ├── samplePasswordFile     # Sample data file
-    └── README.md              # Project description
+└── password_manager/                  # Project 3: Password Manager with Encryption
+    ├── main.py                        # Main program file
+    ├── encryption_utilities.py        # Encryption module
+    ├── encryption_utilities_test.py   # Unit tests for encryption
+    ├── samplePasswordFile             # Sample data file
+    └── README.md                      # Project description
 ```
 
 ## Projects Overview
