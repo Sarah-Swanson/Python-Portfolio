@@ -4,17 +4,19 @@ A portfolio of my work from my Intro to Python course.
 
 ## Project Structure
 ```
-intro-to-python-portfolio/
+Python-Portfolio/
 │
 ├── README.md                  # This file
 ├── .gitignore                 # Standard Python gitignore file
 │
-├── list_formatter/            # Project 1: List Formatter
-│   ├── list_formatter.py      # Program that formats lists with proper grammar
-│   └── README.md              # Project description
 │
 ├── backpack_inventory/        # Project 2: Backpack Inventory Manager
 │   ├── backpack.py            # Simple inventory management system
+│   └── README.md              # Project description
+│
+│
+├── list_formatter/            # Project 1: List Formatter
+│   ├── list_formatter.py      # Program that formats lists with proper grammar
 │   └── README.md              # Project description
 │
 └── password_manager/          # Project 3: Password Manager with Encryption
